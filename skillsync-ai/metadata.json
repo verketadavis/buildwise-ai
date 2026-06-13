@@ -1,0 +1,6 @@
+{
+  "name": "SkillSync AI",
+  "description": "An AI-powered career intelligence platform analyzing skills, experience, and projects to provide resume reports, job matching, radar skill gap analysis, interview simulation, and learning roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
