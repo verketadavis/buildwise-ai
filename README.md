@@ -1,2 +1,20 @@
-# buildwise-ai
-BuildWise AI is an AI-powered construction cost estimator for the United States and Canada that analyzes blueprints, land data, and location to generate accurate material, labor, timeline, carbon footprint, and contractor cost estimates with intelligent quote comparison and fraud detection.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/91113007-bb64-40f1-bc80-833efb0a2d7b
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

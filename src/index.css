@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  /* Override basic color definitions so global pages adapt immediately */
+  --color-green-50: #FEF3E2;       /* Warm Ivory/Sand Cream background context */
+  --color-green-100: #FCEBD3;      /* Semi-saturated Sand Cream shade */
+  --color-green-200: #D0E4EF;      /* Semi-muted Sky/Steel Blue shade */
+  --color-green-500: #6299B7;      /* Soft Sky Blue accent */
+  --color-green-600: #5587A4;      /* Stronger Sky Blue accent */
+  --color-green-700: #C8102E;      /* Vivid Crimson/Scarlet Red */
+  --color-green-800: #6B0000;      /* Deep Midnight Burgundy/Maroon */
+  --color-green-900: #002D42;      /* Midnight Blue/Dark Navy */
+  
+  /* Create highly semantic helper tokens for direct layout assignments */
+  --color-brand-cream: #FEF3E2;
+  --color-brand-sky: #6299B7;
+  --color-brand-crimson: #C8102E;
+  --color-brand-maroon: #6B0000;
+  --color-brand-dark-navy: #002D42;
+  --color-brand-navy-darker: #001B29;
+}

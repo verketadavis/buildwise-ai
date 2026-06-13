@@ -1,0 +1,6 @@
+{
+  "name": "BuildWise AI",
+  "description": "Intelligent Construction Cost Estimator & Project Planning Platform using AI Blueprint analysis, detailed Bills of Quantities, regional pricing indexes, timeline planning, and contractor quote audits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
